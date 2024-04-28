@@ -200,7 +200,6 @@ nav {
   box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.25);
   width: 194.5px;
   height: 79.85px;
-  opacity: 0px;
 }
 
 .firstcard:hover {
@@ -240,7 +239,6 @@ nav {
   box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.29);
   width: 194.5px;
   height: 79.85px;
-  opacity: 0px;
   background-color: #fff;
 }
 
@@ -283,7 +281,7 @@ nav {
   width: 194.5px;
   height: 79.85px;
   background-color: #fff;
-  opacity: 0px;
+  
 }
 
 .thirdcard:hover {
