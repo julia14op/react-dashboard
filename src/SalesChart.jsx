@@ -29,14 +29,14 @@ function SalesChart() {
     const currentYear = new Date().getFullYear();
     const years = Array.from({ length: currentYear - 1999 }, (_, index) => 2000 + index);
 
-    // State to manage the selected year
+   
     const [selectedYear, setSelectedYear] = useState(null);
 
-    // Handle change when a year is selected from the dropdown
+    
     const handleYearChange = (e) => {
         const year = parseInt(e.target.value);
         setSelectedYear(year);
-        // You can perform further actions based on the selected year
+       
         console.log('Selected year:', year);
     };
 

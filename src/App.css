@@ -396,7 +396,7 @@ nav {
 
   .btn12{
     display: flex;
-    background-color: #fff; /* Blue color, adjust as needed */
+    background-color: #fff; 
     box-shadow: 2px 2px 4px 0 rgba(0.29, 0.29, 0.29, 0.29);
   padding: 10px 20px;
   border: none;
@@ -1359,7 +1359,7 @@ margin-bottom: 10px;
   top: 70px;
   right: -15px;
   transform: translate(-50%, -50%);
-  transform-origin: 50px 50px; /* Half the width and height of the ellipse */
+  transform-origin: 50px 50px; 
 }
 
 .ellipse1:hover .ball {

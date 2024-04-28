@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaHome, FaChartPie, FaEnvelope, FaWallet } from 'react-icons/fa';
- // Make sure to create this CSS file
+
 
 function Sidebar() {
   return (
