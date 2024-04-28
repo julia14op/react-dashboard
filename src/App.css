@@ -147,18 +147,18 @@ nav {
 
 @media screen and (max-width: 768px) {
   .sidebar {
-    width: 375px; /* Make sidebar full width when at the bottom */
-    height: 52px; /* Adjust height as needed */
-    top: auto; /* Remove top positioning */
-    bottom: -400px; /* Position at the bottom of the screen */
+    width: 375px; 
+    height: 52px; 
+    top: auto; 
+    bottom: -400px; 
     left: 180px;
     border-radius: 20px;
   }
   .sidebar-item {
-    margin-bottom: 0px; /* Remove bottom margin */
-    margin-left: 10px; /* Reset left margin */
-    padding: 10px; /* Add padding for better touch area */
-    text-align: center; /* Center align text */
+    margin-bottom: 0px; 
+    margin-left: 10px; 
+    padding: 10px;
+    text-align: center; 
     display: inline-block;
     color: #5a4fba;
     position: relative;
